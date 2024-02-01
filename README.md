@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Dinervc Lab**
+ 🔭 I’m currently working on **Bridian (Private)**
  
- 🌱 I’m currently learning **Vue.js, Tailwind, Flutter**
+ 🌱 I’m currently learning **NestJS, Python, Angular**
  
  </div>
  
@@ -32,7 +32,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,postman,linux,swift,xcode" /><br>
-    <img src="https://skillicons.dev/icons?i=vue,java,react,mysql,html,css,vscode,git,bash,php," />
+    <img src="https://skillicons.dev/icons?i=vue,java,react,mysql,html,css,vscode,git,bash,php,nest" />
 </div>
 
 <br/>
