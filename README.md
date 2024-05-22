@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Bridian (Private)**
  
- 🌱 I’m currently learning **NestJS, Python, Angular**
+ 🌱 I’m currently learning **Python, Python, Python**
  
  </div>
  
