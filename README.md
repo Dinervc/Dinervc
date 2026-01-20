@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Bridian (Private)**
+ 🔭 I’m currently working on **No Projects. Studying for the Swiss Passerelle. :D**
  
- 🌱 I’m currently learning **Python, Python, Python**
+ 🌱 I’m currently learning (and actively working with) **Python, Python, Python**
  
  </div>
  
@@ -31,8 +31,8 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,typescript,express,firebase,mongodb,postman,linux,swift,nest" /><br>
-    <img src="https://skillicons.dev/icons?i=vue,java,react,mysql,html,css,vscode,git,bash,php" />
+    <img src="https://skillicons.dev/icons?i=python,typescript,swift,java" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,vscode,bash" />
 </div>
 
 <br/>
@@ -41,10 +41,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=dinervc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dinervc&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
+  <!-- <img width=390 src="https://streak-stats.demolab.com/?user=dinervc&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dinervc&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <br/>
+  <br/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=dinervc&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <br/><br/>
