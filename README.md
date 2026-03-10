@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **No Projects. Studying for the Swiss Passerelle. :D**
+ 🔭 I’m currently working on **No Projects. Successfully passed the Swiss Passerelle in February. Going to the "Rekrutenschule" in June 2026.**
  
- 🌱 I’m currently learning (and actively working with) **Python, Python, Python**
+ 🌱 I’m currently learning (and actively working with): **Python, Python, Python**
  
  </div>
  
