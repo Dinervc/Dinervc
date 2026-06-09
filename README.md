@@ -11,6 +11,8 @@
  🔭 I’m currently working on **AdrianIO. Successfully passed the Swiss Passerelle in February. Going to the "Rekrutenschule" in July 2026.**
  
  🌱 I’m currently learning (and actively working with): **Python, Python, Python** (and some Web-Dev)
+
+ 🤖 I work with an **AI-first mindset**: using AI as a coding copilot for development, debugging, documentation and automation, while staying fully responsible for quality, correctness and final decisions. I continuously refine my workflows to combine faster iteration with solid engineering practices.
  
  </div>
  
